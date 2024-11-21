@@ -69,7 +69,7 @@ If you get any errors let me know.
    ![image](https://github.com/user-attachments/assets/167a12f0-ccb8-4d29-927e-f3d62faf298e)
 5. The terminal should show the current directory in the prompt. Depending on what terminal you use it might look quite different
    ![image](https://github.com/user-attachments/assets/14a63007-88dc-4119-b822-df0b189fcb6b)
-6. Now you can clone your fork by typing `git fork URL` where `URL` is the URL you copied earlier.
+6. Now you can clone your fork by typing `git clone URL` where `URL` is the URL you copied earlier.
 7. Git should clone the repository into a new subfolder. You can navigate into it with `cd DIRECTORY` where `DIRECTORY` is the name of the project folder it created.
 
 Now you have a local copy of the repo that you can make changes to. Let's continue:
